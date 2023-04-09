@@ -1,5 +1,5 @@
-
-## 🌐 Socials:
+# Currently I am Doing All My projects on Replit!, [![Checkout Now!](https://img.shields.io/badge/Replit----blue?style=for-the-badge&logo=artifacthub)](https://replit.com/@rith1x) 
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rith1x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rith1x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiruthikkumar) 
 
 # 💻 Tech Stack:
