@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rith1x&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-stats-alpha.vercel.app/api?username=rith1x)
+![](https://github-stats-alpha.vercel.app/api?username=rith1x&cc=000&tc=0f0&ic=0f0&bc=000)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rith1x&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rith1x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
