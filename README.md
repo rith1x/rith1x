@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://images.credly.com/size/340x340/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)
+![](https://images.credly.com/size/50x50/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)
 ![](https://github-readme-stats.vercel.app/api?username=rith1x&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-stats-alpha.vercel.app/api?username=rith1x&cc=000&tc=0f0&ic=0f0&bc=000)
 ![](https://github-profile-trophy.vercel.app/?username=rith1x)
