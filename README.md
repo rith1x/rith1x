@@ -15,6 +15,7 @@
 ![](https://images.credly.com/size/150x150/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)
 ![](https://images.credly.com/size/150x150/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png)
 ![](https://images.credly.com/size/150x150/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)
+![](https://images.credly.com/size/150x150/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/image.png)
 
 
 # 📊 GitHub Stats:
