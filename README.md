@@ -9,8 +9,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rith1x) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiruthikkumar) 
 
-
-
 # ⭐ Badges
 ![](https://images.credly.com/size/150x150/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)
 ![](https://images.credly.com/size/150x150/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png)
@@ -25,6 +23,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rith1x&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rith1x&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rith1x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# 🧑‍💻 Leetcode Stats
+![](https://leetcode-stats.vercel.app/api?username=rith1x&theme=Dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
